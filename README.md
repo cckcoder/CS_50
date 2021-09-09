@@ -36,3 +36,12 @@ arguments --> functions --> output
 
 * You got to tell the compiler to link in the library by running either
     `clang -lcs50 -o hello hello.c`
+
+### Cli Basic
+* cd
+* cp
+* ls
+* mkdir
+* mv
+* rm
+* rmdir
